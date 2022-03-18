@@ -1,3 +1,39 @@
+`
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **15** hours spent in total
+
+Note: The video for this week was very hard to follow because the files and code used by Monica were different and some of the instructions were pretty vague
+I got stuck at 10:30 in the part 2 video as my tweets were no longer showing up. I asked about this in the slack but received no assistance. I had to eventually delete some constraints. Other students in the slack reported the same issue.
+
+
+
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [ x] User can compose a tweet. (4pts)
+- [x ] User can favorite a tweet. (4pts)
+- [x ] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/1GVaGpHYAk.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
+
 # Project 3 - *Twitter*
 
 **Twitter** is a basic twitter app to read your tweets.
