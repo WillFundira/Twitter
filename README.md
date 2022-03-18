@@ -5,8 +5,7 @@ This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: **15** hours spent in total
 
-Note: The video for this week was very hard to follow because the files and code used by Monica were different and some of the instructions were pretty vague
-I got stuck at 10:30 in the part 2 video as my tweets were no longer showing up. I asked about this in the slack but received no assistance. I had to eventually delete some constraints. Other students in the slack reported the same issue.
+
 
 
 
